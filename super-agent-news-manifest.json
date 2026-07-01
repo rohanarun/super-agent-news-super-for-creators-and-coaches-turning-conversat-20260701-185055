@@ -1,0 +1,36 @@
+{
+  "citations": [
+    {
+      "source": "Memeburn",
+      "title": "Google gives Gemini 3.5 Flash computer use for AI agents",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmotdWlXYzdiUUVaeXZQaDJkcVB5bzlfcWROWldtd2JjZXdoeEVVR0U4X3ZyZjR2cElfVXh1dXlhZG84YXlseWRDRmtlY2E2RWZ4Vno5RGp6LTRBbU04bXVDYWprOEJXaVJ1bG9jeFdMSFpmX216N1l6LXQwRW9SYk1uQk4?oc=5"
+    },
+    {
+      "source": "Security Affairs",
+      "title": "GuardFall Flaw Hits 10 of 11 Popular Open-Source AI Agents",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS2lpbklEYzd3VWY3MTJRN2Q2S3lsbVducjFYV3VWNWxqT3NXZ0xwa2Y5MGRWRXVqb2N4Ym1rc255XzZfMjZXbDRBS0JMb1BVT0dEM1ZndFoyQTdpdjVlT19lb0FsdTZTWGY2S1JLc2ZHNVh6Yy10TGxrM3VXdW5sVVpkY1FzYkdDLU5Cc29ELXNxZnBUSzRxTHJrYS1ld2dsM2JF0gGoAUFVX3lxTFB6UHRiNmxJNFNCQ2NKMll5R0p0dTNoQ2x0X2FDMThrbERHcU5CU0plNG13aDhHX3Q1VXM3dGVIVmhPZHZsanFVeUdERjlpcUwwVHNRb3NoaHNVLV91N3FwemxFTWZUNEhMMlEzNF82MGNJN21taTYwa3hLVzM4R2NrQVdlQnRDUzE0WFlHRE4wLXVrbEg2RG1iRllBcG1LMjg0SXVENkRyTQ?oc=5"
+    },
+    {
+      "source": "Dark Reading",
+      "title": "AI-Generated Workflows Are a Silent Security Disaster",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVVo4WmxQT1J1ZjA4UnlTa2RIVVBWYUNpQ2dKbm5xa2NfZWdPSXZneU1RdjhmOTk5dGtOQm4tcjZkM285SThCWVVHbFZaZ3NSLUpfWFlHSFhuMkhOYlFEd3NiWGxHSmlOS0JjZFhRVmxzdWJnbm5BZDZlN3VZMUd4SUNkWDFWVFQwaGU5VWtmWQ?oc=5"
+    }
+  ],
+  "design_plan": "seed=42; architecture=reuse comparison layout; hero_lines=2.5; AIDA=pass; hero_centering=flex+text-align; bento_density=grid-auto-flow:dense; competitors_label_sweep=pass; CTA_contrast=ink/white pass",
+  "generated_at": "2026-07-01T18:51:01.923190+00:00",
+  "headline": "Super for creators and coaches turning conversations into content and operations",
+  "site_brief": {
+    "audience": "creators and coaches turning conversations into content and operations",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "creators and coaches turning conversations into content and operations AI assistant",
+      "creators and coaches turning conversations into content and operations personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-creators-and-coaches-turning-conversations-into",
+    "title": "Super for creators and coaches turning conversations into content and operations"
+  },
+  "summary": "A cinematic niche landing page for creators and coaches who want to turn calls, DMs, and meetings into repeatable content and real operations. Built on Super\u2019s personal AI agents that can operate a computer and reuse a computer-use cache for durable workflows."
+}
